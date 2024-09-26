@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style1.css">
+    <title>Aditi Bhosure- Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1><em>Aditi Bhosure Portfolio</em></h1>
+</header>
+<section id="about">
+    <div class="container">
+        <img src="c:\Users\Administrator\Downloads\WhatsApp Image 2024-09-26 at 4.28.55 PM.jpeg" alt="Aditi Bhosure">
+        <div class="about-me">
+            <h1>About Me</h1>
+            <p><i><b>I'm Aditi Bhosure. I have recently graduated with Bachelor's in Computer Science and am pursuing Master's in Scientific Computing from Savitribai Phule Pune University.This portfolio serves as a showcase of my academic journey, project work, and development skills, reflecting my passion for computational problem-solving and software development.Over the course of my undergraduate studies, I gained grasp in mathematics,algorithms, data structures, and electronics. Now, as a master’s student, I am building on that foundation by applying computational techniques to complex scientific problems.</b></i> </p>
+        </div>
+    </div>
+</section>
+
+<section id="Skills">
+    <h1><b>Skills</b></h1>
+    <ul>
+        <li><i>Html</i></li>
+        <li><i>CSS</i></li>
+        <li><i>C programming(intermediate)</i></li>
+        <li><i>Python(beginner)</i></li>
+        <li><i>C++ (beginner)</i></li>
+        <li><i>JavaScript (beginner)</i></li>
+        <li><i>SQL</i></li>
+    </ul>
+</section>
+
+<section id="projects">
+    <h1><b>Projects</b></h1>
+    <div class="container"><img src="c:\Users\Administrator\Downloads\WhatsApp Image 2024-09-26 at 9.11.37 PM.jpeg" alt="project">
+        <div class="project">
+           <h3><em>Book Verse-Online Free Book Reading Platform</em></h3>
+           <p>Book Verse is a comprehensive online platform dedicated to providing a rich library of programming books,all available for free. Our platform aims to make learning and exploring programming languages accessible to everyone. Our Platform provides direct links to PDF versions of the books. This means you can easily access and download the books to read offline or on your preferred device without hassle.You can browse through categories,search for specific titles or topics, and discover new books that match your interests. </p>
+        </div>
+     </div>
+</section>
+
+<section id="resume">
+    <h2>Resume</h2>
+    <a href="c:\Users\Administrator\Downloads\Aditi cv new.pdf">Download Resume</a>
+</section>
+
+<section id="contact">
+    <h3>Contact</h3>
+    <p>Email:bhosure.as2003@gmail.com</p>
+    <p>Phone:8767344720</p>
+</section>
+
+<footer>
+    <p><b>copy;2024 AditiBhosure. All right reserved</b></p>
+</footer>
+</body>
+</html>
