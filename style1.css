@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding:0;
+    line-height: 1.6;
+    background-color:black;
+}
+
+header {
+    background:grey;
+    color:purple;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+    margin: 10px 0;
+    color: plum;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.container img {
+    max-width: 600px;
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.about-me {
+    max-width: 600px;
+    text-align: center;
+}
+
+.about-me h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.about-me p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .container img {
+        margin: 0 0 20px 0;
+    }
+}
+
+
+.project,p,img {
+    margin-bottom: 20px;
+    text-align: center;
+    color:plum;
+    max-width: 1000px;
+}
+
+footer {
+    background:grey;
+    color:purple;
+    text-align: center;
+    padding: 20px;
+}
